@@ -1,0 +1,9 @@
+{
+  "name": "Krishi Suraksha",
+  "description": "AI-powered input advisory and fraud prevention platform for Indian farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
